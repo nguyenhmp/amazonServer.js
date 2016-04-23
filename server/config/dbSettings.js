@@ -1,10 +1,10 @@
 module.exports = (function(){
 	return {
 		"user": "root",
-  	"password": "root",
+  	"password": "rootroot",
 	 	"connectionLimit": 100, 
-  	"host": "localhost",
+  	"host": "73.239.201.241",
   	"database": "scalingdb",
   	"port":3306
-	}
+	}	
 })()		 
